@@ -1,2 +1,2 @@
 # bookmark
-浏览器书签
+Chrome浏览器书签，将bookmark导入到Chrome中即可。
