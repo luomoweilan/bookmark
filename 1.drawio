@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T05:28:07.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="PcPkP6a2mAokW3bpfJzm" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T05:34:35.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="UvVsY_iVqH6JWq1ANb_C" version="14.4.3" type="github">
   <diagram id="oAG-OyZ7u-6wMKuhqJLJ" name="第 1 页">
     <mxGraphModel dx="1002" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-1" value="线上大学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-2" value="体系文件协同编辑器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-3" value="系统通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="303" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="303" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-4" value="office助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="389" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="190" as="sourcePoint" />
+            <mxPoint x="220" y="190" as="sourcePoint" />
             <mxPoint x="300" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -36,27 +36,54 @@
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vmE_TQx0R0XRHYuzHWrs-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="418.5" as="sourcePoint" />
-            <mxPoint x="290" y="418.5" as="targetPoint" />
+            <mxPoint x="200" y="449.5" as="sourcePoint" />
+            <mxPoint x="290" y="449.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vmE_TQx0R0XRHYuzHWrs-9" value="培训集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vmE_TQx0R0XRHYuzHWrs-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vmE_TQx0R0XRHYuzHWrs-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="120" as="sourcePoint" />
             <mxPoint x="300" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmE_TQx0R0XRHYuzHWrs-12" value="BS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="120" height="80" as="geometry" />
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-17" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vmE_TQx0R0XRHYuzHWrs-13" value="BS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="293" width="120" height="80" as="geometry" />
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-18" value="开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vmE_TQx0R0XRHYuzHWrs-14" value="BS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="379" width="120" height="80" as="geometry" />
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-19" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="333" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-20" value="开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="303" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-21" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-22" value="开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-23" value="BS技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-24" value="CS技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="273" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-25" value="C端技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-26" value="&lt;a target=&quot;_blank&quot; href=&quot;https://www.electronjs.org/&quot; style=&quot;color: rgb(0, 27, 160); text-decoration: none; font-family: &amp;quot;microsoft yahei&amp;quot;, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong style=&quot;font-weight: normal ; color: rgb(204 , 0 , 0)&quot;&gt;Electron&lt;/strong&gt;&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="303" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-28" value="&lt;strong style=&quot;color: rgb(204 , 0 , 0) ; text-decoration: none ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 20px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Ant Design&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vmE_TQx0R0XRHYuzHWrs-29" value="&lt;strong style=&quot;color: rgb(204 , 0 , 0) ; text-decoration: none ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 20px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;.NET&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
